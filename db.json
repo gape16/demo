@@ -1,11 +1,9 @@
 {
-  "postss": [
+  "result": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "count": 1
 }
