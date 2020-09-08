@@ -1,9 +1,9 @@
 {
-  "result": [
-    {
+  "postss": [
+    "count": 1,
+    "result": {
       "id": 1,
       "title": "hello"
     }
-  ],
-  "count": 1
+  ]
 }
